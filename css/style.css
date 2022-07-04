@@ -1,0 +1,40 @@
+body {
+    font-family: 'Abel', sans-serif;
+}
+.span-color {
+    color: brown;
+}
+.title {
+    font-size: 60px;
+}
+.section-first {
+    display: flex;
+    background-image: url("images/exp-bg.png");
+}
+.profile-first {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 150px;
+}
+.profile-first img {
+    width: 100%;
+}
+.first-pragraph {
+    font-size: 18px;
+}
+.first-anchor {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.section-secend {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+}
+.section-secend {
+    background-image: url("images/jhankar2.png");
+}
