@@ -1,0 +1,62 @@
+body{
+    font-family: abel, sans-serif;
+    margin: 0;
+}
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.banner-home {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width img {
+    width: 100%;
+}
+.title{
+    font-size: 50px;
+}
+.title span {
+    color: orange;
+}
+a {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 81, 0), rgb(255, 0, 55));
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.dream-banner {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exp-section div {
+    box-shadow: 10px 10px 40px grey;
+    height: 80%;
+    padding-left: 2%;
+}
+.exp-title {
+    font-size: 40px;
+}
+.exp-h3 {
+    color: orange;
+}
+.exp-section {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#left {
+    border-left: 7px solid tomato;
+}
+#right {
+    border-left: 7px solid blue;
+}
